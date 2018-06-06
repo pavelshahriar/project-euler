@@ -3,7 +3,7 @@
 
 'use strict';
 
-console.log(getSumOfMultiplicators(20,[3,5]));
+console.log(getSumOfMultiplicators(1000,[3,5]));
 
 function getSumOfMultiplicators(boundary, multiplicators){
   let sum = 0;
